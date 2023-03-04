@@ -1,0 +1,78 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	background-color: #d3413f;
+}
+
+.daksh-navbar ul li a{
+	float: right !important;
+}
+
+.nav-link{
+	color: #fff !important;
+}
+
+.about-us h1, .product h2, .testimonials h3, .product p, .ideas{
+	text-align: center;
+}
+
+.fullwidthbanner img{
+	width: 100%;
+}
+
+.ideas{
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 1) 100%);
+	padding: 50px 0px;
+}
+
+.testimonials{
+	background: linear-gradient(to bottom, rgba(212, 68, 66, 0.7) 0%, rgba(212, 68, 66, 1) 100%);
+}
+
+.product ul li{
+	text-align: center;
+}
+
+.product ul li:nth-child(1){
+	background-color: #d3413f;
+	color: #fff;
+}
+.product ul li:nth-child(2){
+	background-color: #f26967;
+	color: #fff;
+}
+
+
+
+
+
+
+.copyright{
+	background: #d3413f;
+	padding: 12px 0px;
+	color: #fff;
+}
+.copyright p{
+	margin: 0px;
+}
+
+.footer, .product, .testimonials{
+	padding: 35px 0px;
+}
+
+.footer ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+.footer ul li{
+	list-style-type: none;
+}
+
+.testimonial-caption{
+	color: #000 !important;
+}
+
